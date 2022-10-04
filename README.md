@@ -36,6 +36,7 @@ To get a local copy up and running follow these simple example steps.
 ```
 git clone https://github.com/eaesmat/OOP-school-library.git
 
+```
 
 ### Deployment
 - Already done! You can access using the live demo link
